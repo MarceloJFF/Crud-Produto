@@ -45,7 +45,7 @@ Após concluir essas etapas, seu ambiente local estará configurado com o Visual
 
 ## Passo 4: Configurar o arquivo App.Config
 No diretório entre em App.Config E altere a String de conexão para sua forma forma de conexão com Sql Server.
-<?xml version="1.0" encoding="utf-8" ?>
+```<?xml version="1.0" encoding="utf-8" ?>
 <configuration>
 	<connectionStrings>
 		<add name="MyConnection" connectionString="" />
