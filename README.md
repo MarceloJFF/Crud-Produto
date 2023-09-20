@@ -51,6 +51,5 @@ No diretório entre em App.Config E altere a String de conexão para sua forma f
 	</connectionStrings>
 </configuration>
 ```
-
 ## Passo 5: Rode  o Projeto
-Rode o arquivo Crud Produto.csproj
+Rode o arquivo Crud ```Produto.csproj
