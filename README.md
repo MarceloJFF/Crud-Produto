@@ -25,8 +25,7 @@ Certifique-se de que o banco de dados "BancoProduto" esteja selecionado como ban
 
 Na mesma janela de consulta, cole e execute o seguinte comando SQL para criar a tabela "Product" dentro do banco de dados "BancoProduto":
 
-sql  
-Copy code  
+
 USE BancoProduto;  
 
 CREATE TABLE [dbo].[Product](  
