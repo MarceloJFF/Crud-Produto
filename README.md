@@ -1,4 +1,3 @@
-# Crud Produto Projeto
 
 # Passo a Passo para Rodar o Projeto
 
@@ -54,3 +53,4 @@ No diretório entre em App.Config E altere a String de conexão para sua forma f
 ```
 
 ## Passo 5: Rode  o Projeto
+Rode o arquivo Crud Produto.csproj
